@@ -12,4 +12,4 @@ https://www.figma.com/file/Qw8hvqw59inGfGu8VlY7bk/Pokedex?node-id=28%3A15
 <img src="screenshots/mockup.png" style="width:30%">
 
 # Result
-<img src="https://github.com/Bwolfs2/pokedex/blob/master/pokedex.PNGf" >
+<img src="https://github.com/Bwolfs2/pokedex/blob/master/pokedex.PNG" >
